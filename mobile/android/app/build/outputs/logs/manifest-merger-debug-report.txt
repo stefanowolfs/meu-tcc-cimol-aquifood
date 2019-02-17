@@ -1,0 +1,246 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from [com.android.support:design:27.1.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/cb00e0341c596b915c8a4a1ab3a9fb61/AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-maps] /home/stefano/devel/aquifood/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-linear-gradient] /home/stefano/devel/aquifood/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /home/stefano/devel/aquifood/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.57.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/96b04e6091ba11ffa7d1a1f7a664f309/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/stefano/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c617f08c85978936106a744990d3e412/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/67a251093b99fc3c7d0d42cd8b0df15a/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/7feacf8cebaac7305e58fa60db0b790d/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/b5526006a7123edee8c30e84d34379db/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/045394660323ce1a1cf686a0a3fc2c70/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:27.1.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/3368983cac9d76e7a91f85204b1cf0cb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/77860cc2e9e07636e76426134d1b7063/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/37bc686bb942f4743a2cc3ae5eb3db0d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/stefano/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/c22479c74c34379f4bf0cf651059a8db/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/14042c065734f4d4a49ba7cbe9b8d848/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/2be3c1ed4ba58311d21db6b3b1a046e6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/748ea54d4dbf26ec4d61210f5843fb26/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/b5576a97bb2c9db9b6a45b86e8989c0c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/b6ff8d3c1bbaab3e5caff44ef8b0560a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/stefano/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/4fd2e4fc720ff647e533229c942b2549/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /home/stefano/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/a29e1ca36497bc876d8cf6ac8d1abde9/AndroidManifest.xml:1:1-3:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/stefano/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e7d0badda6f51bf5fdffcad343170874/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/stefano/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/44cf5c32c75ec6544758730e1fee2c2f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/d7956507656d12bb1125c400857cf13f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/stefano/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7a724cd75320e9c2872225af65aa9a2b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/stefano/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/a17626a8ba1b0cd57a3f6b65eb860ccc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/stefano/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/74de5c8ba4f2b51aa0fc946f412e598a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/stefano/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6578abb633090cf87e4a2acdb601ca12/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/27e0e0539e9969f0298ea2b393d747a9/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/eeacf50364a0a58c8604e22e9fdfedc5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/87bcaf25b5979530aff0192ca195f9f4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/f4073f4b0a98d2b28d34668c09e457ca/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8370a78e50dfd39c1ad23d8392b7936a/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:1:1-30:12
+	package
+		ADDED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:2:5-27
+		INJECTED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-maps] /home/stefano/devel/aquifood/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /home/stefano/devel/aquifood/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/67a251093b99fc3c7d0d42cd8b0df15a/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/67a251093b99fc3c7d0d42cd8b0df15a/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/96b04e6091ba11ffa7d1a1f7a664f309/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/96b04e6091ba11ffa7d1a1f7a664f309/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:8:5-28:19
+MERGED from [com.facebook.react:react-native:0.57.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/96b04e6091ba11ffa7d1a1f7a664f309/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/96b04e6091ba11ffa7d1a1f7a664f309/AndroidManifest.xml:13:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/67a251093b99fc3c7d0d42cd8b0df15a/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/67a251093b99fc3c7d0d42cd8b0df15a/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/7feacf8cebaac7305e58fa60db0b790d/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/7feacf8cebaac7305e58fa60db0b790d/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/b5526006a7123edee8c30e84d34379db/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/b5526006a7123edee8c30e84d34379db/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/045394660323ce1a1cf686a0a3fc2c70/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/045394660323ce1a1cf686a0a3fc2c70/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/stefano/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/c22479c74c34379f4bf0cf651059a8db/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/stefano/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/c22479c74c34379f4bf0cf651059a8db/AndroidManifest.xml:7:5-11:19
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/stefano/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/4fd2e4fc720ff647e533229c942b2549/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/stefano/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/4fd2e4fc720ff647e533229c942b2549/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/stefano/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/a29e1ca36497bc876d8cf6ac8d1abde9/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/stefano/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/a29e1ca36497bc876d8cf6ac8d1abde9/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:10:7-39
+	android:icon
+		ADDED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:11:7-41
+	android:allowBackup
+		ADDED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:12:7-34
+	android:theme
+		ADDED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:13:7-38
+	android:name
+		ADDED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:9:7-38
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:14:7-16:63
+	android:value
+		ADDED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:16:6-61
+	android:name
+		ADDED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:15:6-51
+activity#com.aquifood.MainActivity
+ADDED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:17:7-26:18
+	android:label
+		ADDED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:19:9-41
+	android:windowSoftInputMode
+		ADDED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:21:9-51
+	android:configChanges
+		ADDED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:20:9-79
+	android:name
+		ADDED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:18:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:22:9-25:25
+action#android.intent.action.MAIN
+ADDED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:23:13-65
+	android:name
+		ADDED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:23:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:24:13-73
+	android:name
+		ADDED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:24:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:27:7-84
+	android:name
+		ADDED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:27:17-81
+uses-sdk
+INJECTED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/cb00e0341c596b915c8a4a1ab3a9fb61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/cb00e0341c596b915c8a4a1ab3a9fb61/AndroidManifest.xml:20:5-44
+MERGED from [:react-native-maps] /home/stefano/devel/aquifood/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /home/stefano/devel/aquifood/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-linear-gradient] /home/stefano/devel/aquifood/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /home/stefano/devel/aquifood/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/stefano/devel/aquifood/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/stefano/devel/aquifood/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/96b04e6091ba11ffa7d1a1f7a664f309/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/96b04e6091ba11ffa7d1a1f7a664f309/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/stefano/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c617f08c85978936106a744990d3e412/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/stefano/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c617f08c85978936106a744990d3e412/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/67a251093b99fc3c7d0d42cd8b0df15a/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/67a251093b99fc3c7d0d42cd8b0df15a/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/7feacf8cebaac7305e58fa60db0b790d/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/7feacf8cebaac7305e58fa60db0b790d/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/b5526006a7123edee8c30e84d34379db/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/b5526006a7123edee8c30e84d34379db/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/045394660323ce1a1cf686a0a3fc2c70/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/045394660323ce1a1cf686a0a3fc2c70/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:27.1.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/3368983cac9d76e7a91f85204b1cf0cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/3368983cac9d76e7a91f85204b1cf0cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/77860cc2e9e07636e76426134d1b7063/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/77860cc2e9e07636e76426134d1b7063/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/37bc686bb942f4743a2cc3ae5eb3db0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/37bc686bb942f4743a2cc3ae5eb3db0d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/stefano/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/c22479c74c34379f4bf0cf651059a8db/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/stefano/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/c22479c74c34379f4bf0cf651059a8db/AndroidManifest.xml:5:5-43
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/14042c065734f4d4a49ba7cbe9b8d848/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/14042c065734f4d4a49ba7cbe9b8d848/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/2be3c1ed4ba58311d21db6b3b1a046e6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/2be3c1ed4ba58311d21db6b3b1a046e6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/748ea54d4dbf26ec4d61210f5843fb26/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/748ea54d4dbf26ec4d61210f5843fb26/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/b5576a97bb2c9db9b6a45b86e8989c0c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/b5576a97bb2c9db9b6a45b86e8989c0c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/b6ff8d3c1bbaab3e5caff44ef8b0560a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/b6ff8d3c1bbaab3e5caff44ef8b0560a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/stefano/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/4fd2e4fc720ff647e533229c942b2549/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/stefano/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/4fd2e4fc720ff647e533229c942b2549/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/stefano/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e7d0badda6f51bf5fdffcad343170874/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/stefano/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e7d0badda6f51bf5fdffcad343170874/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/stefano/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/44cf5c32c75ec6544758730e1fee2c2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/stefano/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/44cf5c32c75ec6544758730e1fee2c2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/d7956507656d12bb1125c400857cf13f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/d7956507656d12bb1125c400857cf13f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/stefano/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7a724cd75320e9c2872225af65aa9a2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/stefano/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7a724cd75320e9c2872225af65aa9a2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/stefano/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/a17626a8ba1b0cd57a3f6b65eb860ccc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/stefano/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/a17626a8ba1b0cd57a3f6b65eb860ccc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/stefano/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/74de5c8ba4f2b51aa0fc946f412e598a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/stefano/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/74de5c8ba4f2b51aa0fc946f412e598a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/stefano/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6578abb633090cf87e4a2acdb601ca12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/stefano/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6578abb633090cf87e4a2acdb601ca12/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/27e0e0539e9969f0298ea2b393d747a9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/27e0e0539e9969f0298ea2b393d747a9/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/eeacf50364a0a58c8604e22e9fdfedc5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/eeacf50364a0a58c8604e22e9fdfedc5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/87bcaf25b5979530aff0192ca195f9f4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/87bcaf25b5979530aff0192ca195f9f4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/f4073f4b0a98d2b28d34668c09e457ca/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/f4073f4b0a98d2b28d34668c09e457ca/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8370a78e50dfd39c1ad23d8392b7936a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/stefano/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8370a78e50dfd39c1ad23d8392b7936a/AndroidManifest.xml:20:5-44
+INJECTED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-maps] /home/stefano/devel/aquifood/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-maps] /home/stefano/devel/aquifood/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:10.2.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/67a251093b99fc3c7d0d42cd8b0df15a/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/67a251093b99fc3c7d0d42cd8b0df15a/AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/67a251093b99fc3c7d0d42cd8b0df15a/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/67a251093b99fc3c7d0d42cd8b0df15a/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/67a251093b99fc3c7d0d42cd8b0df15a/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/7feacf8cebaac7305e58fa60db0b790d/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/7feacf8cebaac7305e58fa60db0b790d/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/7feacf8cebaac7305e58fa60db0b790d/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/7feacf8cebaac7305e58fa60db0b790d/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/045394660323ce1a1cf686a0a3fc2c70/AndroidManifest.xml:20:9-121
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/stefano/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/c22479c74c34379f4bf0cf651059a8db/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/stefano/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/c22479c74c34379f4bf0cf651059a8db/AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/045394660323ce1a1cf686a0a3fc2c70/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.4] /home/stefano/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/045394660323ce1a1cf686a0a3fc2c70/AndroidManifest.xml:20:20-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/stefano/devel/aquifood/android/app/src/main/AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

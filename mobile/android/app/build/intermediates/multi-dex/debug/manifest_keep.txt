@@ -1,0 +1,3 @@
+# Referenced at /home/stefano/devel/aquifood/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:24
+-keep class com.aquifood.MainApplication { <init>(...); }
+
